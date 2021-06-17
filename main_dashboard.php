@@ -1,0 +1,1 @@
+<h2>WELCOME <?php echo $_SESSION['user_name'];?></h2>
